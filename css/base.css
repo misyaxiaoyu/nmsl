@@ -1,80 +1,39 @@
-
-header{
-	width: 100%;
-	height: 77px;
-	background-color: aqua;
+.w
+{
+	width: 1190px;
+	margin: 0 auto;
+	
 }
-ul,input{
-	list-style: none;
-	margin: 0;                   /* 各种格式的样式 */
-	padding: 0;
-	border: 0;
-}
-.ph{
-	position: absolute;
-	top: 0;
-	left: 75px;
-}
-footer{
-	width: 100%;
-	height: 400px;
-	background-color: yellow;
-}
-.u1{
-	position: absolute;
-	top: 77px;
-	left: 0;
-	width: 50%;
-	height:200px ;
-}
-.u2{
-	position: absolute;
-	top: 77px;
-	left: 683px;
-	width: 50%;
-	height: 400px;
-	background: blue;
-}
-.u3{
-	position: absolute;
-	top: 277px;
-	left: 605px;
-}
-.u4{
-	position: absolute;
-	top: 130px;
-	left: 1005px;
-	width: 200px;
-	height: 200px;
-	background-color: fuchsia;
-}
-article{
-	width: 100%;
-	height: 800px;
-	background-color: darkorchid;
-}
-.fl{
+.fl
+{
 	float: left;
+	
 }
-.fr{
+.fr {
 	float: right;
 }
-.u4 input{
-	width: 150px;
-	height: 200px;
-	background-color: whitesmoke;
-	float: left;
-	font-size: 15px;
+
+body{
+	background-color: darkorchid;
 }
-.u4 button{
-	width: 30px;
-	height: 150px;
-	background-color: orangered;
-    float: left;	
+
+header{
+	height: 80px;
+	background-color: deepskyblue;
 }
-.wz{
-	position: absolute;
-    top: 480px;
-	left: 380px;
-	
-	}
+.shortcut{
+	height: 40px;
+	background-color: darkcyan;
+	font-size: 12px;
+	line-height: 30px;
+}
+
+.city{
+	margin-left: 100px;
+}
+.cba{
+	margin-right: 100px;
+}
+.tt {
+	margin-right: 1500px;
+}
